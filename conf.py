@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Centrora'
-copyright = u'2017, Centrora'
-author = u'Centrora'
+project = u'OSE Let's Encrypt
+copyright = u'2018, OSE Let's Encrypt
+author = u'Open Source Excellence'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -144,13 +144,13 @@ html_theme_path = ["themes"]
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-html_logo = "images/OSEFavicon1.ico"
+html_logo = "images/OSELOGO.png"
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 #
-html_favicon = "images/favicon.ico"
+html_favicon = "images/OSEFavicon1.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
