@@ -261,8 +261,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Centrora.tex', u'Centrora Documentation',
-     u'Centrora', 'manual'),
+    (master_doc, 'OSE.tex', u'OSE Let's Encrypt Documentation',
+     u'OSE Let's Encrypt', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -303,7 +303,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Centrora', u'Centrora Documentation',
+    (master_doc, 'OSE', u'OSE Let's Encrypt Documentation',
      [author], 1)
 ]
 
@@ -318,8 +318,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Centrora', u'Centrora Documentation',
-     author, 'Centrora', 'One line description of project.',
+    (master_doc, 'OSE', u'OSE Let's Encrypt Documentation',
+     author, 'OSE', 'One line description of project.',
      'Miscellaneous'),
 ]
 
