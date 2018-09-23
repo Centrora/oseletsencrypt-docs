@@ -1,7 +1,7 @@
 Welcome to OSE Let's Encrypt documentation!
 ==============================================
 
-The documentation for Centrora Security is organized into a couple of sections as follows. A simple text version in PDF can be downloaded at `here <https://media.readthedocs.org/pdf/centrora-security-documentations/latest/centrora-security-documentations.pdf>`_.
+The documentation for OSE Let's Encrypt is organized into a couple of sections as follows. A simple text version in PDF can be downloaded at `here <https://readthedocs.org/projects/ose-lets-encrypt-wordpress/downloads/pdf/latest/>`_.
 
 * :ref:`about-docs`
 * :ref:`prerequisites-docs`
