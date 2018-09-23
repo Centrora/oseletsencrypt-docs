@@ -54,8 +54,5 @@ The documentation for OSE Let's Encrypt is organized into a couple of sections a
    :maxdepth: 2
    :caption: FAQs
 
-   config-firewall-settings-v6
-   test-protection
-   manage-ip-variables-v6
-   file-upload-check-v6
-
+   how-to-use-the-plugin
+   website-still-in-http
