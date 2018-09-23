@@ -1,4 +1,4 @@
-Welcome to Centrora Security's documentation!
+Welcome to OSE Let's Encrypt documentation!
 ==============================================
 
 The documentation for Centrora Security is organized into a couple of sections as follows. A simple text version in PDF can be downloaded at `here <https://media.readthedocs.org/pdf/centrora-security-documentations/latest/centrora-security-documentations.pdf>`_.
@@ -6,7 +6,7 @@ The documentation for Centrora Security is organized into a couple of sections a
 * :ref:`about-docs`
 * :ref:`prerequisites-docs`
 * :ref:`install-docs`
-* :ref:`settings`
+* :ref:`setup`
 * :ref:`faqs`
 
 
@@ -35,18 +35,17 @@ The documentation for Centrora Security is organized into a couple of sections a
    :maxdepth: 1
    :caption: Installation
 
-   install-wordpress
+   installation
 
 
-.. _settings:
+.. _setup:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Settings
+   :caption: Setup
 
-   dynamic-scanner
-   other-scanning-tools
-   useful-skills
+   setup
+   install-certificate
 
 
 .. _faqs:
