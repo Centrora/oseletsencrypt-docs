@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OSE Let's Encrypt
-copyright = u'2018, OSE Let's Encrypt
+project = u'OSE Let\'s Encrypt'
+copyright = u'2018, OSE Let\'s Encrypt'
 author = u'Open Source Excellence'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -135,7 +135,7 @@ html_theme_path = ["themes"]
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'OSE Let's Encrypt v1.0.0'
+# html_title = u'OSE Let\'s Encrypt v1.0.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -261,8 +261,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OSE.tex', u'OSE Let's Encrypt Documentation',
-     u'OSE Let's Encrypt', 'manual'),
+    (master_doc, 'OSE.tex', u'OSE Let\'s Encrypt Documentation',
+     u'OSE Let\'s Encrypt', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -303,7 +303,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'OSE', u'OSE Let's Encrypt Documentation',
+    (master_doc, 'OSE', u'OSE Let\'s Encrypt Documentation',
      [author], 1)
 ]
 
@@ -318,7 +318,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OSE', u'OSE Let's Encrypt Documentation',
+    (master_doc, 'OSE', u'OSE Let\'s Encrypt Documentation',
      author, 'OSE', 'One line description of project.',
      'Miscellaneous'),
 ]
